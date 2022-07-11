@@ -1,0 +1,4 @@
+PyQt5~=5.15.2
+requests~=2.25.1
+yeelight~=0.5.4
+twitchAPI~=2.2.5
