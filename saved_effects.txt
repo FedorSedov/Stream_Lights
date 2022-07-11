@@ -1,0 +1,14 @@
+{
+    "follow_effect": [
+        "Lsd"
+    ],
+    "sub_effect": [
+        "Strobe_color"
+    ],
+    "follow_duration": [
+        "6"
+    ],
+    "sub_duration": [
+        "3"
+    ]
+}
